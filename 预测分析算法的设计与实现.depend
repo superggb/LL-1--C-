@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525869285 source:c:\users\jie\documents\杰哥实验\编译原理\预测分析算法的设计与实现\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.c"
+
+1525869548 c:\users\jie\documents\杰哥实验\编译原理\预测分析算法的设计与实现\stack.c
+	<stdio.h>
+	<stdlib.h>
+
